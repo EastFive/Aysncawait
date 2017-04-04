@@ -24,7 +24,7 @@ namespace Aysncawait
                     }
                     if(temperature==100)
                     {
-                        Boom(temperature);//调用所有注册的方法
+                        Boom(temperature);//调用所有注册的方法 
                     }
                 }
                  
