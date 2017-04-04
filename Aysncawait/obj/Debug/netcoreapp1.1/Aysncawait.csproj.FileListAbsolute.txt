@@ -1,0 +1,9 @@
+D:\Coding\Aysncawait\Aysncawait\bin\Debug\netcoreapp1.1\Aysncawait.deps.json
+D:\Coding\Aysncawait\Aysncawait\bin\Debug\netcoreapp1.1\Aysncawait.runtimeconfig.json
+D:\Coding\Aysncawait\Aysncawait\bin\Debug\netcoreapp1.1\Aysncawait.runtimeconfig.dev.json
+D:\Coding\Aysncawait\Aysncawait\bin\Debug\netcoreapp1.1\Aysncawait.dll
+D:\Coding\Aysncawait\Aysncawait\bin\Debug\netcoreapp1.1\Aysncawait.pdb
+D:\Coding\Aysncawait\Aysncawait\obj\Debug\netcoreapp1.1\Aysncawait.csprojResolveAssemblyReference.cache
+D:\Coding\Aysncawait\Aysncawait\obj\Debug\netcoreapp1.1\Aysncawait.AssemblyInfo.cs
+D:\Coding\Aysncawait\Aysncawait\obj\Debug\netcoreapp1.1\Aysncawait.dll
+D:\Coding\Aysncawait\Aysncawait\obj\Debug\netcoreapp1.1\Aysncawait.pdb
